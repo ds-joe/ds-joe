@@ -7,7 +7,12 @@
 </h1>
 
 ### 💬 About me...
-I am a web programmer. I have more than three years of experience. I work in the field of designing control panels and web pages. I also build databases for web applications. I can also convert designs made using ( figma, adobe xd), and other tools into applications. Web is characterized by high accuracy and professionalism, and also use the latest library's and framework's to save time and make something special.
+* ⏫ Three years of experience in front-end.
+* ⏫ Two years of experience in back-end.
+* 💹 Create Dashboard's 
+* ✍️ Convert Figma `UI` to code
+* 🛍️ Create e-commerce web apps
+* 📜 Create Database diagrams
 
 ### ⚙️ Skills
 <div align="left">
@@ -17,26 +22,11 @@ I am a web programmer. I have more than three years of experience. I work in the
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="" />
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="" />
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="" width="48" />
-  <img src="https://raw.githubusercontent.com/agungksidik/public-assets/master/logo/inertiajs-logo.png" alt="" width="48" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" width="48" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="" />&npsb;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="" width="48" />&npsb;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="" width="48" />&npsb;
+  <img src="https://raw.githubusercontent.com/agungksidik/public-assets/master/logo/inertiajs-logo.png" alt="" width="48" />&npsb;
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" />&npsb;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" width="48" alt="" />&npsb;
   <img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-icon-2048x2048-weuuvbaz.png" width="48" alt="" />
 </div>
-
-<!--
-**ds-joe/ds-joe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
