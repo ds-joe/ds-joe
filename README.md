@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div style="display: flex; justify-content: center;">
+  <img width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWljanJ3dW40ejk0YTFsMTQ1NnR2d2hvbHZpdTYwd21wYnV3NXB5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="" />
+</div>
+# Hi 
 ### 💬 Ask me about ...
 I am a web programmer. I have more than three years of experience. I work in the field of designing control panels and web pages. I also build databases for web applications. I can also convert designs made using ( figma, adobe xd), and other tools into applications. Web is characterized by high accuracy and professionalism, and also use the latest library's and framework's to save time and make something special.
 
