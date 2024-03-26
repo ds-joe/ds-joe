@@ -22,7 +22,8 @@ I am a web programmer. I have more than three years of experience. I work in the
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="" width="48" />
   <img src="https://raw.githubusercontent.com/agungksidik/public-assets/master/logo/inertiajs-logo.png" alt="" width="48" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" width="48" alt="" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" width="48" alt="" />
+  <img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-icon-2048x2048-weuuvbaz.png" width="48" alt="" />
 </div>
 
 <!--
