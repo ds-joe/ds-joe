@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  # Hi , <img src="https://tenor.com/TS3c.gif" alt="" /> i'm Joe 
+  # Hi ,👋 i'm Joe 
 </p>
 
 ### 💬 Ask me about ...
