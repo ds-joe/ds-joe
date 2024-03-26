@@ -15,11 +15,11 @@ I am a web programmer. I have more than three years of experience. I work in the
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="" />
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="" />
-    <img src="https://img.icons8.com/color/48/000000/php.png" alt="" />
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="" />
-    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="" />
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" />
-    <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" width="48" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" />
+ <img src="https://image.pngaaa.com/779/6447779-middle.png" width="48" alt="" />
 </div>
 
 <!--
