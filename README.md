@@ -19,7 +19,7 @@ I am a web programmer. I have more than three years of experience. I work in the
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="" />
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" />
- <img src="https://image.pngaaa.com/779/6447779-middle.png" width="48" alt="" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" width="48" alt="" />
 </div>
 
 <!--
