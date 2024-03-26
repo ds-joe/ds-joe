@@ -1,6 +1,6 @@
-<section align="center">
+<p align="center">
   <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWljanJ3dW40ejk0YTFsMTQ1NnR2d2hvbHZpdTYwd21wYnV3NXB5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="" />
-</section>
+</p>
 
 # Hi 
 
