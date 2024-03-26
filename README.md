@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
- Hi ,👋 I'm Joe 
+ Hi 👋, I'm Joe 
 </h1>
 
 ### 💬 About me...
@@ -13,7 +13,7 @@ I am a web programmer. I have more than three years of experience. I work in the
 <div align="left">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="" />
-  <img src="" alt="" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="" />
 </div>
 
 <!--
