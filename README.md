@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">
- Hi ,👋 i'm Joe 
+ Hi ,👋 I'm Joe 
 </h1>
 
-### 💬 Ask me about ...
+### 💬 About me...
 I am a web programmer. I have more than three years of experience. I work in the field of designing control panels and web pages. I also build databases for web applications. I can also convert designs made using ( figma, adobe xd), and other tools into applications. Web is characterized by high accuracy and professionalism, and also use the latest library's and framework's to save time and make something special.
 
 
