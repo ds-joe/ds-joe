@@ -22,8 +22,8 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="" />
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="" />
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="" /
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="" width="48" />
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="" width="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="" width="48" />
   <img src="https://raw.githubusercontent.com/agungksidik/public-assets/master/logo/inertiajs-logo.png" alt="" width="48" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="" />
