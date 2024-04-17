@@ -7,8 +7,8 @@
 </h1>
 
 ### 💬 About me...
-* ⏫ Four years of experience in front-end.
-* ⏫ Two years of experience in back-end.
+* ⏫ Four years of experience as front-end.
+* ⏫ Two years of experience as back-end.
 * 💹 Create Dashboard's 
 * ✍️ Convert Figma `UI` to code
 * 🛍️ Create e-commerce web apps
