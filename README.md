@@ -9,7 +9,9 @@
 ### 💬 About me...
 * ⏫ Four years of experience as front-end.
 * ⏫ Two years of experience as back-end.
-* 💹 Create Dashboard's 
+* 💹 Create Dashboard's
+* 💹 Create ERP Systems
+* 👥 Create Multi Tenancy Systems
 * ✍️ Convert Figma `UI` to code
 * 🛍️ Create e-commerce web apps
 * 📜 Create Database diagrams
