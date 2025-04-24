@@ -3,9 +3,26 @@
   <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWljanJ3dW40ejk0YTFsMTQ1NnR2d2hvbHZpdTYwd21wYnV3NXB5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="" />
 </p>
 <h1 align="center"> 
-  Hi 👋, I'm Joe 
+  Hi 👋, I'm Youssef 
 </h1>
-⏫ Five years of experience as front-end.<br>⏫ Three years of experience as back-end.<br>💹 Create Dashboard's<br>💹 Create ERP Systems<br>👥 Create Multi Tenancy Systems<br>✍️ Convert Figma UI to code<br>🛍️ Create e-commerce web apps<br>📜 Create Database diagrams
+
+🚀 A passionate **Full Stack Developer** with:
+
+- ⏫ **5+ years** of front-end experience  
+- ⏫ **3+ years** of back-end development
+
+---
+
+### 💼 What I Build
+
+- 📊 Sleek & functional **Dashboards**
+- 🏢 Custom **ERP Systems** for business needs
+- 🌐 Scalable **Multi-Tenant Architectures**
+- 🎨 **Figma to Code** conversions – pixel-perfect!
+- 🛒 Robust **E-commerce Web Applications**
+- 🧠 Well-structured **Database Diagrams** & Schemas
+
+---
 
 
 ## 🌐 Socials:
