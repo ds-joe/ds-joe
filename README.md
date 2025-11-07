@@ -6,7 +6,7 @@
   Hi 👋, I'm Youssef 
 </h1>
 
-<h3 align="center">Senior Software Engineer | Building Scalable & Secure Web Solutions</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 ---
 
