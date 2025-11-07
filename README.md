@@ -6,21 +6,16 @@
   Hi 👋, I'm Youssef 
 </h1>
 
-🚀 A passionate **Full Stack Developer** with:
+<h3 align="center">Senior Software Engineer | Building Scalable & Secure Web Solutions</h3>
 
 - ⏫ **5+ years** of front-end experience  
 - ⏫ **3+ years** of back-end development
 
 ---
 
-### 💼 What I Build
-
-- 📊 Sleek & functional **Dashboards**
-- 🏢 Custom **ERP Systems** for business needs
-- 🌐 Scalable **Multi-Tenant Architectures**
-- 🎨 **Figma to Code** conversions – pixel-perfect!
-- 🛒 Robust **E-commerce Web Applications**
-- 🧠 Well-structured **Database Diagrams** & Schemas
+🚀 Passionate about crafting **clean, high-performance applications** that bridge functionality and user experience.  
+💡 Experienced in **Full-Stack Development**, **E-commerce Systems**, and **Multi-Tenant Architectures**.  
+🛠️ Skilled at transforming complex ideas into elegant, maintainable solutions.
 
 ---
 
