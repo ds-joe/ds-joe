@@ -8,9 +8,6 @@
 
 <h3 align="center">Senior Software Engineer | Building Scalable & Secure Web Solutions</h3>
 
-- ⏫ **5+ years** of front-end experience  
-- ⏫ **3+ years** of back-end development
-
 ---
 
 🚀 Passionate about crafting **clean, high-performance applications** that bridge functionality and user experience.  
